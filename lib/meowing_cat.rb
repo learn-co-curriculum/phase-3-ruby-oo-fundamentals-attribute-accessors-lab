@@ -10,6 +10,3 @@ class Cat
     puts "meow!"
   end
 end
-
-maru = Cat.new('Maru')
-puts maru.name
